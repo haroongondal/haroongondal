@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/haroon66/](https://www.linkedin.com/in/haroon66/)
 
-- 💬 Ask me about **javascript, react.js, next.js, node.js**
+- 💬 Ask me about **javascript, react.js, next.js, node.js, nest.js**
 
 - 📫 How to reach me **haroonmukhtar4@gmail.com**
 
